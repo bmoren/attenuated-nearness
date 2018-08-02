@@ -1,0 +1,24 @@
+ ,Qnty,Value,Footprint,Description,Mouser Part #,Notes
+"C1, C2, ",2,22p,0805,"Capacitor, ceramic, C0G/NP0, 50V, 1%",77-VJ0805A220FXACBC,
+"C3, C4, ",2,22u,0805,"Capacitor, ceramic",81-GRM21BR61E226ME4L,Alternate: C2012JB1E226M125AC
+"C5, C6, C7, C8, ",4,100n,0805,"Capacitor, ceramic",581-08053C104J,
+"D1, D2, ",2,1N5819HW,SOD 123,Diode,621-1N5819HW-F,
+"J2, J3, J4, J5, J6, J7, J8, J1, J9, ",9,PJ301M12,Thonkiconn,"""Thonkiconn"" switching mono phone jack",,https://modularaddict.com/parts/synth-diy-parts/pj301m12-jacks
+"J10, ",1,Conn_02x05_Odd_Even,Header 2x05 Pitch 2.54mm,02x05,855-M20-9990546,2X 01x05
+"J11, J12, ",2,Conn_01x05,Header 1x05 Pitch2.54mm,01x05,855-M20-9990546,
+"J13, J14, ",2,Conn_01x05,Socket 1x05 Pitch2.54mm,01x05,855-M20-7820542,
+"P5, P6, ",2,CONN_01X03,Header Angled 1x03 Pitch2.54mm,01x03,538-22-28-8034,
+"R1, R14, R15, R16, R17, R18, R19, R20, R21, R22, ",10,100k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB104V,
+"R2, R13, ",2,1M67,0805,"Resistor, thick film, 1%",667-ERJ-6ENF1694V,Original Nearness: 1M69K
+"R3, R12, ",2,103k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB1023V,Original Nearness: 102K
+"R4, R11, ",2,439k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB4423V,Original Nearness: 442k
+"R5, R10, ",2,113k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB1133V,
+"R6, R9, ",2,215k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB2153V,
+"R7, R8, ",2,141k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB1403V,Original Nearness: 140K
+"R23, R24, ",2,1k,0805,"Resistor, thin film, 0.1%",667-ERA-6AEB102V,
+"RV1, RV2, RV3, RV4, RV5, RV6, RV7, ",7,A10K,tall trimmer pot 9mm,Potentiometer A10K,,https://modularaddict.com/parts/synth-diy-parts/9mm-tall-trimmer-potentiometers
+"U1, U2, ",2,LME49720,SOIC-8 3.9x4.9mm Pitch1.27mm,,926-LME49720MAX/NOPB,
+Jumper,2,Jumper,,,,
+,,,,,,
+Component Count:,61,,,,,
+Mouser Project Link,https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e1ea3fb0a7,,,,,
