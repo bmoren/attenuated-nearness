@@ -22,5 +22,7 @@ Original Nearness Repo: https://github.com/sarnesjo/nearness
 ## BOM
 <a href="nearness_att_bom.csv">Build of Materials</a>
 
+Mouser Project Link:	https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e1ea3fb0a7
+
 ## License
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
