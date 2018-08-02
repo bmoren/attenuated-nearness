@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/bmoren/Desktop/module development/nearness-master/nearness_att/pcb/nearness.sch</source>
+    <date>Wednesday, June 27, 2018 at 08:16:27 AM</date>
+    <tool>Eeschema (5.0.0-rc2-47-g52fceb3)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>nearness.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J2">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7A91</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7AB3</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7AD1</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7AF2</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7B16</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7B37</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7B60</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7DBD</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1M67</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7E0E</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>103k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7EF4</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>439k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7EFA</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>113k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7FD6</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>215k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7FDC</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>141k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7FE2</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>141k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD7FE8</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>215k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD817A</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>113k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8180</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>439k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8186</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>103k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD818C</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>1M67</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8192</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8198</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>1k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD88EC</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>1k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD89A4</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8A9D</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>PJ301M12</value>
+      <footprint>modular:Thonkiconn_small_holes</footprint>
+      <libsource lib="pj301m12" part="PJ301M12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8B0F</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8DE4</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD8EF2</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9069</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD95C0</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD95C6</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD95CC</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819HW</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9829</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N5819HW</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9914</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>22u</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9A5F</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>22u</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9B16</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9C65</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58FD9D01</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>591AE4DD</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>591AE57B</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LME49720</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="lme49720" part="LME49720"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A3B196</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LME49720</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="lme49720" part="LME49720"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A3B431</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A407B0</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>modular:C_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A40870</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_01X03</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm</footprint>
+      <libsource lib="nearness-rescue" part="CONN_01X03-RESCUE-nearness"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A7BF22</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A7C09F</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_01X03</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm</footprint>
+      <libsource lib="nearness-rescue" part="CONN_01X03-RESCUE-nearness"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A7D51F</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>modular:R_0805_HandSoldering_TopLabel</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A7D525</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B223744</tstamp>
+    </comp>
+    <comp ref="RV2">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B1918C5</tstamp>
+    </comp>
+    <comp ref="RV3">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B191950</tstamp>
+    </comp>
+    <comp ref="RV4">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B1919DB</tstamp>
+    </comp>
+    <comp ref="RV5">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B191A67</tstamp>
+    </comp>
+    <comp ref="RV6">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B191CD0</tstamp>
+    </comp>
+    <comp ref="RV7">
+      <value>POT</value>
+      <footprint>modular:tall_trimmer_pot_9mm</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B191D5E</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_02x05_Odd_Even"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B31B16E</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x05</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B6514D8</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x05</value>
+      <footprint>Socket_Strips:Socket_Strip_Straight_1x05_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B65160F</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x05</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B65191E</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x05</value>
+      <footprint>Socket_Strips:Socket_Strip_Straight_1x05_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B651A15</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*2x??x*mm*</fp>
+        <fp>Connector*:*2x???Pitch*</fp>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentiometer</description>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lme49720" part="LME49720">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LME49720</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="~" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="~" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="nearness-rescue" part="CONN_01X03-RESCUE-nearness">
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03-RESCUE-nearness</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pj301m12" part="PJ301M12">
+      <description>"Thonkiconn" switching mono phone jack</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ301M12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/Library/Application Support/kicad/library/device.lib</uri>
+    </library>
+    <library logical="lme49720">
+      <uri>/Users/bmoren/Desktop/module development/nearness-master/nearness_att/pcb/lme49720.lib</uri>
+    </library>
+    <library logical="nearness-rescue">
+      <uri>/Users/bmoren/Desktop/module development/nearness-master/nearness_att/pcb/nearness-rescue.lib</uri>
+    </library>
+    <library logical="pj301m12">
+      <uri>/Users/bmoren/Desktop/module development/nearness-master/nearness_att/pcb/pj301m12.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J2" pin="1"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J6" pin="2"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J7" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J14" pin="4"/>
+      <node ref="J14" pin="3"/>
+      <node ref="J14" pin="2"/>
+      <node ref="J12" pin="4"/>
+      <node ref="J12" pin="3"/>
+      <node ref="J12" pin="2"/>
+      <node ref="J13" pin="4"/>
+      <node ref="J13" pin="3"/>
+      <node ref="J13" pin="2"/>
+      <node ref="J11" pin="4"/>
+      <node ref="J11" pin="3"/>
+      <node ref="J11" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J10" pin="8"/>
+      <node ref="J10" pin="7"/>
+      <node ref="J10" pin="6"/>
+      <node ref="J10" pin="5"/>
+      <node ref="J10" pin="4"/>
+      <node ref="J10" pin="3"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="RV7" pin="1"/>
+      <node ref="RV6" pin="1"/>
+      <node ref="RV5" pin="1"/>
+      <node ref="RV4" pin="1"/>
+      <node ref="RV3" pin="1"/>
+      <node ref="RV2" pin="1"/>
+      <node ref="RV1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="2" name="Net-(J11-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="J11" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="3" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="5" name="Net-(J9-Pad2)">
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="6"/>
+      <node ref="R19" pin="2"/>
+      <node ref="R21" pin="1"/>
+    </net>
+    <net code="7" name="Net-(C2-Pad1)">
+      <node ref="R20" pin="2"/>
+      <node ref="R22" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="J10" pin="1"/>
+      <node ref="J10" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="J10" pin="10"/>
+      <node ref="J10" pin="9"/>
+    </net>
+    <net code="10" name="+12V">
+      <node ref="D1" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="11" name="-12V">
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="4"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="12" name="Net-(P5-Pad1)">
+      <node ref="U1" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="P5" pin="1"/>
+    </net>
+    <net code="13" name="Net-(P5-Pad2)">
+      <node ref="R16" pin="2"/>
+      <node ref="P5" pin="2"/>
+    </net>
+    <net code="14" name="Net-(P5-Pad3)">
+      <node ref="P5" pin="3"/>
+    </net>
+    <net code="15" name="Net-(P6-Pad1)">
+      <node ref="U2" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="16" name="Net-(P6-Pad2)">
+      <node ref="P6" pin="2"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="17" name="Net-(P6-Pad3)">
+      <node ref="P6" pin="3"/>
+    </net>
+    <net code="18" name="Net-(C2-Pad2)">
+      <node ref="R24" pin="1"/>
+      <node ref="U2" pin="7"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="19" name="Net-(C1-Pad2)">
+      <node ref="U1" pin="7"/>
+      <node ref="C1" pin="2"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="20" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3"/>
+      <node ref="J11" pin="5"/>
+    </net>
+    <net code="21" name="Net-(J12-Pad5)">
+      <node ref="J9" pin="3"/>
+      <node ref="J12" pin="5"/>
+    </net>
+    <net code="22" name="Net-(R1-Pad1)">
+      <node ref="RV1" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="23" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3"/>
+      <node ref="RV1" pin="3"/>
+    </net>
+    <net code="24" name="Net-(R3-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="RV2" pin="2"/>
+    </net>
+    <net code="25" name="Net-(J3-Pad3)">
+      <node ref="RV2" pin="3"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="26" name="Net-(R5-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="RV3" pin="2"/>
+    </net>
+    <net code="27" name="Net-(J4-Pad3)">
+      <node ref="RV3" pin="3"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="28" name="Net-(R7-Pad1)">
+      <node ref="RV4" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="29" name="Net-(J5-Pad3)">
+      <node ref="J5" pin="3"/>
+      <node ref="RV4" pin="3"/>
+    </net>
+    <net code="30" name="Net-(R10-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="RV5" pin="2"/>
+    </net>
+    <net code="31" name="Net-(J6-Pad3)">
+      <node ref="RV5" pin="3"/>
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="32" name="Net-(R11-Pad1)">
+      <node ref="RV6" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="33" name="Net-(J7-Pad3)">
+      <node ref="RV6" pin="3"/>
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="34" name="Net-(R13-Pad1)">
+      <node ref="RV7" pin="2"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="35" name="Net-(J8-Pad3)">
+      <node ref="J8" pin="3"/>
+      <node ref="RV7" pin="3"/>
+    </net>
+    <net code="36" name="Net-(J13-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="J13" pin="1"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="37" name="Net-(J13-Pad5)">
+      <node ref="R21" pin="2"/>
+      <node ref="J13" pin="5"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="38" name="Net-(J14-Pad1)">
+      <node ref="J14" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="39" name="Net-(J14-Pad5)">
+      <node ref="J14" pin="5"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R22" pin="2"/>
+    </net>
+  </nets>
+</export>
