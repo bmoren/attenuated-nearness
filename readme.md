@@ -1,6 +1,6 @@
-#Attenuated nearness
-#####(aka. *52800*)
-##Nearness with attenuators for each input
+# Attenuated nearness
+##### (aka. *52800*)
+## Nearness with attenuators for each input
 
 <img src="nearnessatt.jpg" width="500">
 
@@ -19,7 +19,7 @@ Original Nearness Repo: https://github.com/sarnesjo/nearness
 1. Place the jacks & pots on the PCB.
 1. Screw on the panel, then solder jacks and pots.
 
-##BOM
+## BOM
 <a href="nearness_att_bom.csv">Build of Materials</a>
 
 ## License
