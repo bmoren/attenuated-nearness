@@ -25,5 +25,5 @@ Original Nearness Repo: https://github.com/sarnesjo/nearness
 Mouser Project Link:	https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e1ea3fb0a7
 
 ## License
-[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).    
 Build and use at your own risk! I am not responsible for any damage to self or otherwise that arises from using this project!
